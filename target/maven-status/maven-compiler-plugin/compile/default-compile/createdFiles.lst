@@ -1,0 +1,10 @@
+taskpilot\dao\Test.class
+taskpilot\model\User.class
+taskpilot\utils\DataFormatValidation.class
+taskpilot\controller\Controller_T.class
+taskpilot\model\Task.class
+taskpilot\dao\ConnectionBD.class
+taskpilot\controller\Controller_LS.class
+taskpilot\dao\users_data_manipulation\DBActions_U.class
+taskpilot\dao\tasks_data_manipulation\DBActions_T.class
+taskpilot\dao\users_data_manipulation\DataDBValidation_U.class
